@@ -18,7 +18,7 @@
 ---
 
 <div> <span><strong>Languages:</strong> </span> <span> Python, C/C++, HTML/CSS, Javascript, Haskell, Prolog</span> </div>
-<div> <span><strong>Tools and Frameworks:</strong> </span> <span>Pytorch, Sklearn, Numpy, Pandas, Matplotlib, Seaborn, Flask, Django, Regex, Heroku, Git, Github, Firebase, Mongodb, Mysql</span> </div>
+<div> <span><strong>Tools and Frameworks:</strong> </span> <span>Pytorch, Flask, Django, Regex, Heroku, Git, Github, Firebase, Mongodb, Mysql</span> </div>
 <div> <span><strong>Familiar with:</strong> </span> <span>Tensorflow, Java, React, Nodejs, ejs, Google Colab, OpenCV</span> </div>
 
 <h3>Experience</h3>
@@ -56,6 +56,7 @@
 - Designed a **Lightweight CNN model** for the abnormal detection of **Chest Radiographs**
 - Combined the ideas from **Squeezenet** and **Mobilenet** to prepare a Light weight model
 - Our Model Outperforms various light weight CNN architectures like **Squeezenet**, **Shufflenet**, **Mobilenet** on NIH dataset both on binary and multiclass classification
+- Our **research paper** recently got revised in **Medical Physics Journal**
 
 **Regularizing Federated Learning (FL) via Adversarial Model Perturbations (AMP)** | [Github](https://github.com/nirbhay-design/DAI_Project) | Pytorch, FL, Python
 
