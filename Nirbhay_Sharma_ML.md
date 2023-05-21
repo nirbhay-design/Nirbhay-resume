@@ -7,8 +7,8 @@
 
 
 
-<div class='head__title'> <span><strong>B.Tech</strong>, CSE | IIT Jodhpur </span> <span class="duration">Aug'19-May'23</span> </div>
-<div> CGPA(Ongoing): <strong>8.9</strong>/10 </div>
+<div class='head__title'> <span><strong>B.Tech</strong>, CSE | Indian Institute of Technology (IIT) Jodhpur </span> <span class="duration">Aug'19-May'23</span> </div>
+<div> CGPA: <strong>8.96</strong>/10 </div>
 
 <!-- <div class='head__title'> <span><strong>Class $12^{th}$ </strong> | Dehradun public school </span> <span class="duration">Mar'18-Mar'19</span> </div>
 <div> Percentage: <strong>96.4</strong> </div> -->
@@ -40,7 +40,7 @@
 
 **Noise Engineered Federated Distillation for Heterogeneous Settings** | Pytorch, FL, Python
 
-<div class="head__title"><span><strong> Research Project</strong> | Supervisor: <strong> Dr. Deepak Mishra</strong>  | IIT Jodhpur</span> <span class="duration"> Aug'22-Present </span> </div>
+<div class="head__title"><span><strong> Research Project</strong> | Supervisor: <strong> Dr. Deepak Mishra</strong>  | IIT Jodhpur</span> <span class="duration"> Aug'22-May'23 </span> </div>
 
 - **Proposed** a **novel** Federated Learning Framework to handle **model heterogeneity** among clients
 - Utilized the concept of **Data-free KD** for **knowledge transfer** from Client models to Server model 
