@@ -1,8 +1,9 @@
-<!-- <div class='head__title'> <span> <a href="https://github.com/nirbhay-design"> Github </a> </span> <span class="name__"> Nirbhay Sharma </span> <span> <a href="https://www.linkedin.com/in/nirbhay-sharma-a2b846204/"> LinkedIn </a> </span> </div>
-<div class='head__title'> <span> <a href="mailto:sharma.59@iitj.ac.in"> Email </a> </span> <span style='margin-left:20px'> Uttar Pradesh, India </span> <span> 9369630713 </span> </span> </div> -->
+<!-- <div class='head__title'>  <span class="name__"> Nirbhay Sharma </span> <span> Github:  <a href="https://github.com/nirbhay-design"> github.com/nirbhay-design </a> </span> <span> <a href="https://www.linkedin.com/in/nirbhay-sharma-a2b846204/"> LinkedIn </a> </span> </div>
+<div class='head__title'> <span> 9369630713 </span> <span> Email: <a href="mailto:sharma.59@iitj.ac.in">  sharma.59@iitj.ac.in </a> </span> <span style='margin-left:20px'> Portfolio: <a href="nirbhay-sharma.vercel.app">  nirbhay-sharma.vercel.app </span> </a> </span> </div> -->
 
-<div class='head__title'> <span> <a href="https://github.com/nirbhay-design"> Github </a> </span> <span class="name__"> Nirbhay Sharma </span> <span> <a href="https://www.linkedin.com/in/nirbhay-sharma-a2b846204/"> LinkedIn </a> </span> </div>
-<div class='head__title'> <span> <a href="mailto:sharma.59@iitj.ac.in"> Email </a> </span> <span> 9369630713 </span> <span> <a href='https://nirbhay-sharma.vercel.app'> Portfolio</a> </span> </span> </div>
+<div> <div class='name__'> Nirbhay Sharma </div> </div>
+
+<div>Github: <a href="github.com/nirbhay-design"> github.com/nirbhay-design </a> | <> LinkedIn</div>
 
 <h3>Education</h3>
 
@@ -24,7 +25,7 @@
 <div> <span><strong>Tools and Frameworks:</strong> </span> <span>Pytorch, Flask, Django, Regex, Heroku, Git, Github, Firebase, Mongodb, Mysql</span> </div>
 <div> <span><strong>Familiar with:</strong> </span> <span>Tensorflow, Java, React, Nodejs, ejs, Google Colab, OpenCV</span> </div>
 
-<h3>Research / Industry Experience</h3>
+<h3>Experience</h3>
 
 ---
 
@@ -36,6 +37,10 @@
 - Utilized **Pysyft** and **Jetson Nano** for transferring features from one device to another
 - Implemented **encoder-decoder** architecture for **tensor compression**
 - Reduced **inference time** on Jetson nano device while preserving **data privacy**
+
+<h3>Projects</h3>
+
+---
 
 **Noise Engineered Federated Distillation for Heterogeneous Settings** | Pytorch, FL, Python
 
@@ -56,12 +61,6 @@
 - Combined the ideas from **Squeezenet** and **Mobilenet** to prepare a Light weight model
 - Our Model Outperforms various light weight CNN architectures like **Squeezenet**, **Shufflenet**, **Mobilenet** on NIH dataset both on binary and multiclass classification
 - Our **research paper** recently got revised in **Medical Physics Journal**
-
-
-<h3>Projects</h3>
-
----
-
 
 **Regularizing Federated Learning (FL) via Adversarial Model Perturbations (AMP)** | [Github](https://github.com/nirbhay-design/DAI_Project) | Pytorch, FL, Python
 
@@ -108,8 +107,7 @@
 
 <style> 
 
-@import url('https://fonts.googleapis.com/css2?family=Arvo&family=Lato&family=Lora&family=Open+Sans&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Belanosima&family=Inconsolata&family=Secular+One&display=swap');
 
 table, th, td {
   border: 0.1px solid black;
@@ -120,7 +118,7 @@ h3 {
     margin-top:5px;
     color:#BD3147;
     font-size:16px;
-    font-weight:550;
+    font-weight:500;
 }
 
 .head__title{
@@ -131,7 +129,8 @@ h3 {
 
 *{
     /* font-family: "Verdana"; */
-    font-family: "Open Sans";
+    /* font-family: "Helvetica"; */
+    font-family: 'Georgia';
     font-size:12.6px;
     margin:0px;
 }
@@ -144,7 +143,7 @@ h3 {
 .name__{
     color:#BD3147;
     font-size:22px;
-    font-weight:650;
+    font-weight:500;
 }
 
 hr{
@@ -153,7 +152,7 @@ hr{
 
 a{
     color:#3b5998;
-    font-weight:600;
+    font-weight:550;
 }
 
 /* #3b5998 44556f */
