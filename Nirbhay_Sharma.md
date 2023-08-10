@@ -1,17 +1,125 @@
-<div class='head__title'> <span> <a href="https://github.com/nirbhay-design"> Github </a> </span> <span class="name__"> Nirbhay Sharma </span> <span> <a href="https://www.linkedin.com/in/nirbhay-sharma-a2b846204/"> LinkedIn </a> </span> </div>
+<div class="outer__class">
+<div class='skills__all'>
+<div class='education'>
+<h4>
+Nirbhay Sharma
+</h4>
+<h3>
+CSE'23 | IITJ | 8.97
+</h3>
+</div>
+<div class='skills'>
+</div>
+</div>
+<div class='projects__exp'>
+
+</div>
+</div>
+
+<style> 
+
+body {
+    /* background-color:#CACCCE; */
+}
+
+.education {
+    border:1px solid black;
+    border-radius:10px;
+    padding:10px;
+    height:400px;
+
+}
+
+.outer__class {
+    display:flex;
+}
+
+.skills__all {
+    width:20%;
+    background-color:white;
+}
+
+.projects__exp {
+    width:80%;
+
+}
+
+.name_section {
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    border:1px solid gray;
+    border-radius:15px;
+    padding:10px;
+    width:50%;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+h3 {
+    margin-top:5px;
+    color:#BD3147;
+    font-size:16px;
+    font-weight:500;
+}
+
+.head__title{
+    display:flex;
+    /* flex-direction:row; */
+    justify-content:space-between;
+}
+
+*{
+    /* font-family: "Verdana"; */
+    font-family: "Helvetica";
+    font-size:12.6px;
+    margin:0px;
+}
+
+.duration{
+    color:#3b5998;
+    font-weight:500;
+}
+
+.name__{
+    color:#BD3147;
+    font-size:22px;
+    font-weight:500;
+}
+
+hr{
+    margin-bottom:3px;
+}
+
+a{
+    color:#3b5998;
+    font-weight:550;
+}
+
+/* #3b5998 44556f */
+</style>
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({ tex2jax: {inlineMath: [['$', '$']]}, messageStyle: "none" });
+</script>
+
+
+<!-- <div class='head__title'> <span> <a href="https://github.com/nirbhay-design"> Github </a> </span> <span class="name__"> Nirbhay Sharma </span> <span> <a href="https://www.linkedin.com/in/nirbhay-sharma-a2b846204/"> LinkedIn </a> </span> </div>
 <div class='head__title'> <span> <a href="mailto:sharma.59@iitj.ac.in"> Email </a> </span> <span style='margin-left:20px'> Uttar Pradesh, India </span> <span> 9369630713 </span> </span> </div>
 
 <h3>Education</h3>
 
----
+<div class='name_section'>
+Nirbhay Sharma
+</div>
 
+---
 
 
 <div class='head__title'> <span><strong>B.Tech</strong>, CSE | IIT Jodhpur </span> <span class="duration">Aug'19-May'23</span> </div>
 <div> CGPA(Ongoing): <strong>8.9</strong>/10 </div>
 
-<!-- <div class='head__title'> <span><strong>Class $12^{th}$ </strong> | Dehradun public school </span> <span class="duration">Mar'18-Mar'19</span> </div>
-<div> Percentage: <strong>96.4</strong> </div> -->
 
 <h3>Technical Skills</h3>
 
@@ -73,7 +181,7 @@
 
 - Compared **7** deep **CNN** architectures on **Retinal Eye disease dataset**
 - Implemented **Squeezenet**, **Mobilenet**, **Inceptionnet**, **Shufflenet**, **Googlenet**, **Resnet**, **Efficientnet** from **scratch**
-- Performed a comparison study among the state-of-the-art deep CNN architectures
+- Performed a comparison study among the state-of-the-art deep CNN architectures -->
 
 <!-- **Image Colorization** | [Github](https://github.com/nirbhay-design/dlops-project) | Pytorch, Numpy, Matplotlib, PIL, Python
 
@@ -100,57 +208,3 @@
 
 <!-- --- -->
 
-<style> 
-
-table, th, td {
-  border: 0.1px solid black;
-  border-collapse: collapse;
-}
-
-h3 {
-    margin-top:5px;
-    color:#BD3147;
-    font-size:16px;
-    font-weight:500;
-}
-
-.head__title{
-    display:flex;
-    /* flex-direction:row; */
-    justify-content:space-between;
-}
-
-*{
-    /* font-family: "Verdana"; */
-    font-family: "Helvetica";
-    font-size:12.6px;
-    margin:0px;
-}
-
-.duration{
-    color:#3b5998;
-    font-weight:500;
-}
-
-.name__{
-    color:#BD3147;
-    font-size:22px;
-    font-weight:500;
-}
-
-hr{
-    margin-bottom:3px;
-}
-
-a{
-    color:#3b5998;
-    font-weight:550;
-}
-
-/* #3b5998 44556f */
-</style>
-
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-<script type="text/x-mathjax-config">
-    MathJax.Hub.Config({ tex2jax: {inlineMath: [['$', '$']]}, messageStyle: "none" });
-</script>
