@@ -1,21 +1,33 @@
 <!-- <div class='head__title'>  <span class="name__"> Nirbhay Sharma </span> <span> Github:  <a href="https://github.com/nirbhay-design"> github.com/nirbhay-design </a> </span> <span> <a href="https://www.linkedin.com/in/nirbhay-sharma-a2b846204/"> LinkedIn </a> </span> </div>
 <div class='head__title'> <span> 9369630713 </span> <span> Email: <a href="mailto:sharma.59@iitj.ac.in">  sharma.59@iitj.ac.in </a> </span> <span style='margin-left:20px'> Portfolio: <a href="nirbhay-sharma.vercel.app">  nirbhay-sharma.vercel.app </span> </a> </span> </div> -->
 
-<div> <div class='name__'> Nirbhay Sharma </div> </div>
+<div class='head__title'>
+<div class='name__'> Nirbhay Sharma </div>
+<div> Github: <a href="https://github.com/nirbhay-design"> @nirbhay-design </a> </div>
+</div>
 
-<div>Github: <a href="github.com/nirbhay-design"> github.com/nirbhay-design </a> | <> LinkedIn</div>
+<div class='head__title'>
+<div> Email: <a href='mailto:sharma.59@iitj.ac.in'> sharma.59@iitj.ac.in </a> </div>
+<div> LinkedIn: <a href="https://www.linkedin.com/in/nirbhay-sharma-a2b846204/"> @nirbhay-sharma </a> </div>
+</div>
+
+<div class='head__title'>
+<div> 9369630713 </div>
+<div> Portfolio: <a href="https://nirbhay-sharma.vercel.app/"> @nirbhay-sharma </a> </div>
+</div>
 
 <h3>Education</h3>
 
 ---
 
-
-
 <div class='head__title'> <span><strong>B.Tech</strong>, CSE | Indian Institute of Technology (IIT) Jodhpur </span> <span class="duration">Aug'19-May'23</span> </div>
 <div> CGPA: <strong>8.97</strong>/10 </div>
 
-<!-- <div class='head__title'> <span><strong>Class $12^{th}$ </strong> | Dehradun public school </span> <span class="duration">Mar'18-Mar'19</span> </div>
-<div> Percentage: <strong>96.4</strong> </div> -->
+<div class='head__title'> <span><strong>Class $12^{th}$ </strong> | Dehradun public school </span> <span class="duration">Mar'18-Mar'19</span> </div>
+<div> Percentage: <strong>96.4</strong> </div>
+
+<div class='head__title'> <span><strong>Class $10^{th}$ </strong> | SD public school </span> <span class="duration">Mar'16-Mar'17</span> </div>
+<div> CGPA: <strong>10/10</strong> </div>
 
 <h3>Technical Skills</h3>
 
@@ -25,9 +37,25 @@
 <div> <span><strong>Tools and Frameworks:</strong> </span> <span>Pytorch, Flask, Django, Regex, Heroku, Git, Github, Firebase, Mongodb, Mysql</span> </div>
 <div> <span><strong>Familiar with:</strong> </span> <span>Tensorflow, Java, React, Nodejs, ejs, Google Colab, OpenCV</span> </div>
 
-<h3>Experience</h3>
+<h3>Publications</h3>
 
 ---
+
+***Nirbhay Sharma***, *Gautam Kumar*, *Dr. Angshuman Paul*, "An Extremely Lightweight CNN Model For the Diagnosis of Chest Radiographs in Resource-constrained Environments". "International Journal of Medical Physics" 2023
+
+
+<h3>Industry Experience</h3>
+
+---
+
+**Print Generation** | Pytorch, Python, GAN, Diffusion
+
+<div class="head__title"><span> <strong> Full Time </strong> (ML Engineer) | <strong> Faaya Astu </strong> India </span> <span class="duration"> Jun'23-Present </span> </div>
+
+- Studied **Text To Image** models for print/pattern generation using Text prompts  
+- FineTuned **GALIP**, a **GAN** based model for **Text to Pattern generation** on **AWS** instance
+- Implemented **inference** scripts for **MiniGPT4** for prompts refinement
+- Currently exploring **Diffusion** models for **Text to Pattern generation**
 
 **Split Neural Networks** | Pytorch, Python, Jetson Nano, PySyft
 
@@ -38,7 +66,7 @@
 - Implemented **encoder-decoder** architecture for **tensor compression**
 - Reduced **inference time** on Jetson nano device while preserving **data privacy**
 
-<h3>Projects</h3>
+<h3> Research Experience </h3>
 
 ---
 
@@ -60,7 +88,19 @@
 - Designed a **Lightweight CNN model** for the abnormal detection of **Chest Radiographs**
 - Combined the ideas from **Squeezenet** and **Mobilenet** to prepare a Light weight model
 - Our Model Outperforms various light weight CNN architectures like **Squeezenet**, **Shufflenet**, **Mobilenet** on NIH dataset both on binary and multiclass classification
-- Our **research paper** recently got revised in **Medical Physics Journal**
+- Our **research paper** got at **International Jornal of Medical Physics**
+
+**Cell Detection and Classification** | Pytorch, Python, Torchvision, Numpy
+
+<div class="head__title"><span><strong> Research Project</strong> | Supervisor: <strong> Dr. Angshuman Paul</strong>  | IIT Jodhpur</span> <span class="duration"> Aug'22-Present </span> </div>
+
+- Detected and classified cells data sample into **necrotic** and **apoptotic cells**
+- Finetuned various SOTA object detectors such as **YOLO**, **SSD**, **RetinaNet**, **DeTR**
+- Achieved remarkable results using **DeTR** with a Mean Average Precision (MAP) of **40.0**
+
+<h3>Projects</h3>
+
+---
 
 **Regularizing Federated Learning (FL) via Adversarial Model Perturbations (AMP)** | [Github](https://github.com/nirbhay-design/DAI_Project) | Pytorch, FL, Python
 
@@ -78,20 +118,19 @@
 
 - Compared **7** deep **CNN** architectures on **Retinal Eye disease dataset**
 - Implemented **Squeezenet**, **Mobilenet**, **Inceptionnet**, **Shufflenet**, **Googlenet**, **Resnet**, **Efficientnet** from **scratch**
-- Performed a comparison study among the state-of-the-art deep CNN architectures
+- Performed a **comparison study** among the state-of-the-art deep CNN architectures
 
-<!-- **Image Colorization** | [Github](https://github.com/nirbhay-design/dlops-project) | Pytorch, Numpy, Matplotlib, PIL, Python
+**Image Colorization** | [Github](https://github.com/nirbhay-design/dlops-project) | Pytorch, Numpy, Matplotlib, PIL, Python
 
 **Course Project** | Supservisor: **Dr. Mayank Vatsa** | IIT Jodhpur
 
 - Converted **grayscale image** to **colored image** using **GAN** architectures
 - Implemented **pix2pix** GAN from scratch for the colorization task
-- Performed colorization on **LAB** and **RGB** image format -->
-
-
-<!-- 
+- Performed colorization on **LAB** and **RGB** image format
 
 **Mask-NoMask Detection** | [Github](https://github.com/nirbhay-design/mask-nomask-classification) | Pytorch, Numpy, PIL, Matplotlib, Python
+
+**Course Project** | Supservisor: **Dr. Richa Singh** | IIT Jodhpur
 
 - Detected **5300** images under masked and no masked category with an accuracy of **99.6%**
 - Used transfer learning with **Mobilenet v2** for classification task
@@ -100,14 +139,47 @@
 
 **PRA-Visualizer** | [Github](https://github.com/nirbhay-design/pra-visualizer) | [Url](https://pra-visualizer.web.app/) | React, Nodejs, HTML, CSS, Firebase
 
-- Implemented a **Page replacement algorithm visualizer** which simulates various page replacement algorithms given **Frames** and **demand pages**
-- Implemented **10** algorithms including **LRU**, **Working set**, **FIFO** etc. -->
+**Course Project** | Supservisor: **Dr. Suchetna Chakraborty** | IIT Jodhpur
 
-<!-- --- -->
+- Implemented a **Page Replacement Algorithm Visualizer** which simulates various page replacement algorithms given **Frames** and **demand pages**
+- Implemented **10** algorithms including **LRU**, **Working set**, **FIFO** etc. 
+- Designed the **web UI** application with **animations** for better visulations
+
+<h3> Coursework </h3>
+
+---
+
+<div class='coursework__div'>
+<ul>
+    <li> Probability and Statistics </li>
+    <li> Operating Systems </li>
+    <li> Database management systems (DBMS) </li>
+    <li> Optimization for Machine Learning</li>
+</ul>
+<ul>
+    <li> Computer Networks </li>
+    <li> Computer Architecture </li>
+    <li> Cryptography </li>
+    <li> Introduction to Blockchain </li>
+</ul>
+<ul>
+    <li> Pattern Recognition and Machine Learning </li>
+    <li> Deep Learning </li>
+    <li> Dependable AI </li>
+    <li> Time Series Analysis </li>
+</ul>
+</div>
+
 
 <style> 
 
-@import url('https://fonts.googleapis.com/css2?family=Belanosima&family=Inconsolata&family=Secular+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arvo&family=Lato&family=Lora&family=Open+Sans&display=swap');
+
+.coursework__div {
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
 
 table, th, td {
   border: 0.1px solid black;
@@ -128,9 +200,7 @@ h3 {
 }
 
 *{
-    /* font-family: "Verdana"; */
-    /* font-family: "Helvetica"; */
-    font-family: 'Georgia';
+    font-family: 'Arvo';
     font-size:12.6px;
     margin:0px;
 }
