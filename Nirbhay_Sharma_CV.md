@@ -1,6 +1,3 @@
-<!-- <div class='head__title'>  <span class="name__"> Nirbhay Sharma </span> <span> Github:  <a href="https://github.com/nirbhay-design"> github.com/nirbhay-design </a> </span> <span> <a href="https://www.linkedin.com/in/nirbhay-sharma-a2b846204/"> LinkedIn </a> </span> </div>
-<div class='head__title'> <span> 9369630713 </span> <span> Email: <a href="mailto:sharma.59@iitj.ac.in">  sharma.59@iitj.ac.in </a> </span> <span style='margin-left:20px'> Portfolio: <a href="nirbhay-sharma.vercel.app">  nirbhay-sharma.vercel.app </span> </a> </span> </div> -->
-
 <div class='head__title'>
 <div class='name__'> Nirbhay Sharma </div>
 <div> Github: <a href="https://github.com/nirbhay-design"> @nirbhay-design </a> </div>
@@ -88,7 +85,7 @@
 - Designed a **Lightweight CNN model** for the abnormal detection of **Chest Radiographs**
 - Combined the ideas from **Squeezenet** and **Mobilenet** to prepare a Light weight model
 - Our Model Outperforms various light weight CNN architectures like **Squeezenet**, **Shufflenet**, **Mobilenet** on NIH dataset both on binary and multiclass classification
-- Our **research paper** got at **International Jornal of Medical Physics**
+- Our **research paper** got accepted at **International Jornal of Medical Physics**
 
 **Cell Detection and Classification** | Pytorch, Python, Torchvision, Numpy
 
@@ -195,7 +192,6 @@ h3 {
 
 .head__title{
     display:flex;
-    /* flex-direction:row; */
     justify-content:space-between;
 }
 
