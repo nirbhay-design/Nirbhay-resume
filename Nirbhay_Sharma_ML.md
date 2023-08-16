@@ -4,7 +4,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <div>
-<span class="name__"> Nirbhay Sharma </span> | <span> 9369630713 </span> | <span> <a href="mailto:sharma.59@iitj.ac.in"> <i class="fa fa-envelope" style='font-size:12px;'></i> sharma.59@iitj.ac.in </a> </span> | <span> <a href="https://github.com/nirbhay-design"> <i class="fa fa-github"></i> @nirbhay-design </a> </span> | <span> <a href='https://nirbhay-sharma.vercel.app'> <i class="fa fa-address-book-o"></i> @nirbhay-sharma </a> </span> |  <span> <a href="https://www.linkedin.com/in/nirbhay-sharma-a2b846204/"> <i class="fa fa-linkedin-square"></i> </a> </span> 
+<span class="name__"> Nirbhay Sharma </span> | <span> +91 9369630713 </span> | <span> <a href="mailto:sharma.59@iitj.ac.in"> <i class="fa fa-envelope" style='font-size:12px;'></i> sharma.59@iitj.ac.in </a> </span> | <span> <a href="https://github.com/nirbhay-design"> <i class="fa fa-github"></i> Github </a> </span> | <span> <a href='https://nirbhay-sharma.vercel.app'> <i class="fa fa-address-book-o"></i> Portfolio </a> </span> |  <span> <a href="https://www.linkedin.com/in/nirbhay-sharma-a2b846204/"> <i class="fa fa-linkedin-square"></i> LinkedIn </a> </span> 
 </div>
 
 <h3>Education</h3>
@@ -86,7 +86,7 @@
 
 <style> 
 
-@import url('https://fonts.googleapis.com/css2?family=Arvo&family=Lato&family=Lora&family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arvo&family=Lato&family=Lora&family=Open+Sans&family=Jost&display=swap');
 
 
 table, th, td {
@@ -98,7 +98,7 @@ h3 {
     margin-top:5px;
     color:#BD3147;
     font-size:16px;
-    font-weight:550;
+    font-weight:650;
 }
 
 .head__title{
@@ -108,7 +108,7 @@ h3 {
 
 *{
     font-family: "Open Sans";
-    font-size:12.6px;
+    font-size:13px;
     margin:0px;
 }
 

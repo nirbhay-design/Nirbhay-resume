@@ -17,14 +17,11 @@
 
 ---
 
-<div class='head__title'> <span><strong>B.Tech</strong>, CSE | Indian Institute of Technology (IIT) Jodhpur </span> <span class="duration">Aug'19-May'23</span> </div>
-<div> CGPA: <strong>8.97</strong>/10 </div>
+<div class='head__title'> <span><strong>B.Tech</strong>, CSE | Indian Institute of Technology (IIT) Jodhpur | CGPA: <strong>8.97</strong>/10</span> <span class="duration">Aug'19-May'23</span> </div>
 
-<div class='head__title'> <span><strong>Class $12^{th}$ </strong> | Dehradun public school </span> <span class="duration">Mar'18-Mar'19</span> </div>
-<div> Percentage: <strong>96.4</strong> </div>
+<div class='head__title'> <span><strong>Class $12^{th}$ </strong> | Dehradun public school | Percentage: <strong>96.4</strong> </span> <span class="duration">Mar'18-Mar'19</span> </div>
 
-<div class='head__title'> <span><strong>Class $10^{th}$ </strong> | SD public school </span> <span class="duration">Mar'16-Mar'17</span> </div>
-<div> CGPA: <strong>10/10</strong> </div>
+<div class='head__title'> <span><strong>Class $10^{th}$ </strong> | SD public school | CGPA: <strong>10/10</strong> </span> <span class="duration">Mar'16-Mar'17</span> </div>
 
 <h3>Technical Skills</h3>
 
@@ -33,6 +30,12 @@
 <div> <span><strong>Languages:</strong> </span> <span> Python, C/C++, HTML/CSS, Javascript, Haskell, Prolog</span> </div>
 <div> <span><strong>Tools and Frameworks:</strong> </span> <span>Pytorch, Flask, Django, Regex, Heroku, Git, Github, Firebase, Mongodb, Mysql</span> </div>
 <div> <span><strong>Familiar with:</strong> </span> <span>Tensorflow, Java, React, Nodejs, ejs, Google Colab, OpenCV</span> </div>
+
+<h3>Research Interests</h3>
+
+---
+
+Computer Vision (CV), Natural Language Processing (NLP), Federated Learning (FL), Split Learning, Object Detection
 
 <h3>Publications</h3>
 
@@ -99,11 +102,18 @@
 
 ---
 
+**Image Captioning using Detection Transformer (DeTR)** | [Github](https://github.com/nirbhay-design/image-caption-detr) | Pytorch, Python
+
+- Implemented **DeTR** (a **transformer** based object detector) from **scratch** using **Pytorch**
+- Modified **DeTR** architecture for **image captioning** task
+- Trained **DeTR** on **Flickr30k** dataset for **500** epochs and evaluated on **Flickr8k** dataset using **BLEU** score
+- Achieved a **BLEU** score of **57.36** on **Flickr8k** dataset
+
 **Regularizing Federated Learning (FL) via Adversarial Model Perturbations (AMP)** | [Github](https://github.com/nirbhay-design/DAI_Project) | Pytorch, FL, Python
 
 **Course Project** | Supervisor: **Dr. Richa Singh** | IIT Jodhpur
 
-- Compared and analyzed the effect of **Adversarial Model Perturbations (AMP)** on **4** state-of-the-art Federated Learning algorithms 
+- Compared and analyzed the effect of **Adversarial Model Perturbations (AMP)** on **4** SOTA FL algorithms 
 - Implemented **FedAvg**, **FedProx**, **FedNTD**, **SCAFFOLD** from **scratch**
 - Integrated the AMP module with aforementioned FL algorithms at client side
 - Observed a boost of **2-3%** accuracy in each of the algorithm
@@ -146,26 +156,7 @@
 
 ---
 
-<div class='coursework__div'>
-<ul>
-    <li> Probability and Statistics </li>
-    <li> Operating Systems </li>
-    <li> Database management systems (DBMS) </li>
-    <li> Optimization for Machine Learning</li>
-</ul>
-<ul>
-    <li> Computer Networks </li>
-    <li> Computer Architecture </li>
-    <li> Cryptography </li>
-    <li> Introduction to Blockchain </li>
-</ul>
-<ul>
-    <li> Pattern Recognition and Machine Learning </li>
-    <li> Deep Learning </li>
-    <li> Dependable AI </li>
-    <li> Time Series Analysis </li>
-</ul>
-</div>
+Probability and Statistics, Optimization for Machine Learning, Pattern Recognition and Machine Learning (PRML), Deep Learning, Dependable AI, Time Series Analysis, Cryptography, Blockchain, Computer Graphics
 
 
 <style> 
@@ -187,7 +178,7 @@ h3 {
     margin-top:5px;
     color:#BD3147;
     font-size:16px;
-    font-weight:500;
+    font-weight:650;
 }
 
 .head__title{
@@ -196,8 +187,8 @@ h3 {
 }
 
 *{
-    font-family: 'Arvo';
-    font-size:12.6px;
+    font-family: 'Open Sans';
+    font-size:13px;
     margin:0px;
 }
 
@@ -209,7 +200,7 @@ h3 {
 .name__{
     color:#BD3147;
     font-size:22px;
-    font-weight:500;
+    font-weight:650;
 }
 
 hr{
@@ -218,7 +209,7 @@ hr{
 
 a{
     color:#3b5998;
-    font-weight:550;
+    font-weight:600;
 }
 
 /* #3b5998 44556f */
