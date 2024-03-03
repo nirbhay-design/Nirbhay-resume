@@ -13,15 +13,15 @@
 
 ---
 
-<div class='head__title'> <span> <strong>B.Tech</strong>, CSE | Indian Institute of Technology (IIT) Jodhpur | CGPA: <strong>8.97</strong>/10 </span> <span class="duration">Aug'19-May'23</span> </div>
+<div class='head__title'> <span> <strong>B.Tech</strong>, CSE | Indian Institute of Technology (IIT) Jodhpur | CGPA: <strong>8.97</strong>/10 </span> <span class="duration">08/19-05/23</span> </div>
 
 
 <h3>Technical Skills</h3>
 
 ---
 
-<div> <span><strong>Languages:</strong> </span> <span> Python, C/C++, HTML/CSS, Javascript, Haskell, Prolog</span> </div>
-<div> <span><strong>Tools and Frameworks:</strong> </span> <span>Pytorch, Django, Flask, Docker, AWS Lambda, Regex, Heroku, Git, Github, Firebase, MySql</span> </div>
+<div> <span><strong>Programming Languages:</strong> </span> <span> Python, C/C++ </span> | <span> <strong> Skills: </strong> Machine Learning, Deep Learning, Computer Vision </span> </div>
+<div> <span><strong>Tools and Frameworks:</strong> </span> <span>Pytorch, Django, Flask, Docker, AWS Lambda, Regex, Git, Github, Firebase, MySql</span> </div>
 <!-- <div> <span><strong>Familiar with:</strong> </span> <span>Tensorflow, Java, React, Nodejs, ejs, Google Colab, OpenCV</span> </div> -->
 
 <h3>Publications</h3>
@@ -30,11 +30,11 @@
 
 ***Nirbhay Sharma***, *Gautam Kumar*, *Dr. Angshuman Paul*, "**An Extremely Lightweight CNN Model For the Diagnosis of Chest Radiographs in Resource-constrained Environments**". "International Journal of Medical Physics" 2023 | <a href="https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.16722"> Paper </a>
 
-<h3>Research / Industry Experience</h3>
+<h3>Research and Work Experience</h3>
 
 ---
 
-<div class="head__title"><span>  <strong> Faaya Astu </strong> India | <strong> Full Time </strong> (ML Engineer) | Pytorch, Diffusion, ControlNet, LoRA </span> <span class="duration"> Jun'23-Present </span> </div>
+<div class="head__title"><span>  <strong> Faaya Astu </strong> India | <strong> Full Time </strong> (ML Engineer) | Pytorch, Diffusion, ControlNet, LoRA </span> <span class="duration"> 06/23-Present </span> </div>
 
 - Worked on **SOTA Stable Diffusion**, **ControlNet** and **LoRA** models for text to print, and content generation  
 <!-- - Trained **GALIP**, a **GAN** based model for **Text to Print generation** on **AWS** instance on custom dataset -->
@@ -43,7 +43,7 @@
 - Containerized **Stable Diffusion WebUI** and **ControlNet** using **Docker** and deployed them as **Serverless Endpoints** on **RunPod** for **inference**
 - Exposed the serverless endpoint APIs to **AWS Lambda** and used **AWS API Gateway** to create **APIs for APP**
 
-<div class="head__title"><span> <strong> ExaWizards </strong> India | <strong> Intern </strong> (ML Engineer) | <strong> Split Neural Networks </strong> | Pytorch, Jetson Nano, PySyft </span> <span class="duration"> Jun'22-July'22 </span> </div>
+<div class="head__title"><span> <strong> ExaWizards </strong> India | <strong> Intern </strong> (ML Engineer) | <strong> Split Neural Networks </strong> | Pytorch, Jetson Nano, PySyft </span> <span class="duration"> 06/22-07/22 </span> </div>
 
 - Splitted **Mask-RCNN, FCN_Resnet50, YOLOv5** for **Instance segmentation, segmentation, face detection** tasks
 - Used **Pysyft** for latent feature transfer from **Jetson Nano** edge device to GPU server
@@ -52,7 +52,7 @@
 
 **Noise Engineered Federated Distillation for Heterogeneous Settings** | Pytorch, Federated Learning, Data-Free KD
 
-<div class="head__title"><span><strong> Research Project</strong> | Supervisor: <strong> Dr. Deepak Mishra</strong>  | IIT Jodhpur</span> <span class="duration"> Aug'22-May'23 </span> </div>
+<div class="head__title"><span><strong> Research Project</strong> | Supervisor: <strong> Dr. Deepak Mishra</strong>  | IIT Jodhpur</span> <span class="duration"> 08/22-05/23 </span> </div>
 
 - **Proposed** a **novel** Federated Learning (FL) Framework to handle **model and data heterogeneity**
 - Implemented **data-free KD** using **Gaussian Noise** at the **Server**, eliminating need of **proxy dataset** or **GAN's**
@@ -61,7 +61,7 @@
 
 **Light Weight CNN Model for Chest Radiographs Classification** | Pytorch, Light Weight CNN Models
 
-<div class="head__title"><span><strong> Research Project</strong> | Supervisor: <strong> Dr. Angshuman Paul</strong>  | IIT Jodhpur | <a href="https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.16722"> Paper </a></span> <span class="duration"> Jun'21-Mar'22 </span> </div>
+<div class="head__title"><span><strong> Research Project</strong> | Supervisor: <strong> Dr. Angshuman Paul</strong>  | IIT Jodhpur | <a href="https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.16722"> Paper </a></span> <span class="duration"> 06/21-03/22 </span> </div>
 
 - Designed a **Lightweight CNN model (ExLNet)** for the abnormal detection of **Chest Radiographs**
 - Fused the concepts from **Squeezenet** and **Mobilenet** into a single architecture to make it **lightweight**
