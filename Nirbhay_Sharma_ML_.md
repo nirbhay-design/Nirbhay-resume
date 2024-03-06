@@ -28,7 +28,7 @@
 
 ---
 
-***Nirbhay Sharma***, *Gautam Kumar*, *Dr. Angshuman Paul*, "**An Extremely Lightweight CNN Model For the Diagnosis of Chest Radiographs in Resource-constrained Environments**". "International Journal of Medical Physics" 2023 | <a href="https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.16722"> Paper </a>
+**Nirbhay Sharma**, Gautam Kumar, Dr. Angshuman Paul, **An Extremely Lightweight CNN Model For the Diagnosis of Chest Radiographs in Resource-constrained Environments** | *International Journal of Medical Physics* 2023 | <a href="https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.16722"> Paper </a>
 
 <h3>Research and Work Experience</h3>
 
@@ -39,16 +39,14 @@
 - Worked on **SOTA Stable Diffusion**, **ControlNet** and **LoRA** models for text to print, and content generation  
 <!-- - Trained **GALIP**, a **GAN** based model for **Text to Print generation** on **AWS** instance on custom dataset -->
 - Trained **Stable Diffusion ControlNet** architecture on **Lineart** and **Colorbox** control on **VastAI** GPU instance to provide more flexibility and control on print generation
-- Trained **Low Rank Adaptation (LoRA)** models in **Kohya_SS** for controlled background and face generation 
-- Containerized **Stable Diffusion WebUI** and **ControlNet** using **Docker** and deployed them as **Serverless Endpoints** on **RunPod** for **inference**
-- Exposed the serverless endpoint APIs to **AWS Lambda** and used **AWS API Gateway** to create **APIs for APP**
+- Trained **Low Rank Adaptation (LoRA)** models using **Kohya_SS** for controlled background and face generation 
+- Containerized **Stable Diffusion WebUI** and **ControlNet** using **Docker** to deploy them as **Serverless Endpoints** on **RunPod** and exposed endpoint APIs to **AWS Lambda** to create **APIs for APP** using **AWS API gateway** 
 
 <div class="head__title"><span> <strong> ExaWizards </strong> India | <strong> Intern </strong> (ML Engineer) | <strong> Split Neural Networks </strong> | Pytorch, Jetson Nano, PySyft </span> <span class="duration"> 06/2022-07/2022 </span> </div>
 
 - Splitted **Mask-RCNN, FCN_Resnet50, YOLOv5** for **Instance segmentation, segmentation, face detection** tasks
-- Used **Pysyft** for latent feature transfer from **Jetson Nano** edge device to GPU server
-- Implemented **Encoder-Decoder** architecture with **MSE Loss** for efficient **image compression to latent space**
-- Reduced considerable **inference time** using **split learning** and **latent image compression**  
+- Implemented **Autoencoder** model for efficient **image compression to latent space** and setup **Pysyft** to communicate latent features from **Jetson Nano** to GPU server, **preserving data privacy** at Jetson Nano
+<!-- - Reduced considerable **inference time** using **split learning** and **latent image compression**   -->
 
 **Noise Engineered Federated Distillation for Heterogeneous Settings** | Pytorch, Federated Learning, Data-Free KD
 
@@ -56,26 +54,18 @@
 
 - **Proposed** a **novel** Federated Learning (FL) Framework to handle **model and data heterogeneity**
 - Implemented **data-free KD** using **Gaussian Noise** at the **Server**, eliminating need of **proxy dataset** or **GAN's**
-- Compared our algorithm with SOTA FL algorithms for **model heterogeneity** like **FedDF**, **FedMD**, **Kt-pfl**
-- **Outperformed** all **baselines** in terms of **test accuracy** by a considerable margin on multiple datasets 
+- Our algorithm achieved **3x** better performance compared to SOTA FL algorithms like **FedDF**, **FedMD**, **Kt-pfl**  
 
 **Light Weight CNN Model for Chest Radiographs Classification** | Pytorch, Light Weight CNN Models
 
 <div class="head__title"><span><strong> Research Project</strong> | Supervisor: <strong> Dr. Angshuman Paul</strong>  | IIT Jodhpur | <a href="https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.16722"> Paper </a></span> <span class="duration"> 06/2021-03/2022 </span> </div>
 
 - Designed a **Lightweight CNN model (ExLNet)** for the abnormal detection of **Chest Radiographs**
-- Fused the concepts from **Squeezenet** and **Mobilenet** into a single architecture to make it **lightweight**
-- **ExLNet** outperforms SOTA models like **MobileNet**, **ShuffleNet** on various medical datasets like **NIH**, **VINBIG**
+- Fused **Squeeze and Excitation** blocks with **Depth-wise convolution** to create **DCISE** layer as a component of **ExLNet**, which outperforms SOTA models like **Mobilenet**, **Shufflenet** on medical datasets like **NIH**, **VinBig**
 
 <h3>Projects</h3>
 
 ---
-
-**Image Captioning using Detection Transformer (DeTR)** | [Github](https://github.com/nirbhay-design/image-caption-detr) | Pytorch, DeTR, Transformer
-
-- Implemented **DeTR** from **scratch** using **Pytorch** and modified it for **image captioning** task
-- Trained **DeTR** on **Flickr30k** dataset for **500** epochs and evaluated on test dataset using **BLEU** score
-- Achieved a **BLEU** score of **57.36** on **Flickr8k** dataset
 
 **Regularizing Federated Learning (FL) via Adversarial Model Perturbations (AMP)** | [Github](https://github.com/nirbhay-design/DAI_Project) | [Report](https://github.com/nirbhay-design/DAI_Project/blob/main/B19EE031_B19CSE114_project_report.pdf) | Pytorch, FL
 
@@ -83,7 +73,17 @@
 
 - Analyzed the effect of **Adversarial Model Perturbations (AMP)** on **4** SOTA Federated Learning (FL) algorithms 
 - Implemented **FedAvg**, **FedProx**, **FedNTD**, **SCAFFOLD** from **scratch** and integrated **AMP** module at the **client**
-- Observed a boost of **2-3%** accuracy on CIFAR10/100 dataset after integrating AMP in each of the algorithm 
+- Observed a boost of **2-3%** accuracy on CIFAR10/100 dataset after integrating AMP in each of the algorithm
+
+**Image Captioning using Detection Transformer** | [Github](https://github.com/nirbhay-design/image-caption-detr) | Pytorch, DeTR, Transformer
+
+- Implemented **DeTR** from **scratch** using **Pytorch** and modified it for **image captioning** task
+- Trained **DeTR** on **Flickr30k** dataset for **500** epochs and achieved a **BLEU** score of **57.36** on **Flickr8k** dataset
+
+**Transformers-Implementation** | [Github](https://github.com/nirbhay-design/Transformers-Implementation) | Pytorch, Transformer
+
+- Read and Implemented **11** research papers on **vision transformers** from scratch in Pytorch
+- Implemented SOTA models like **Swin Transformer**, **Pyramid ViT**, **Convolution ViT** etc. for various vision tasks such as **Image classification**, **Object Detection**, **Sementic Segmentation**
 
 <!-- **CNN Algorithms Comparison** | [Github](https://github.com/nirbhay-design/CNNAlgosComparison) | [Report](https://github.com/nirbhay-design/CNNAlgosComparison/blob/master/Dl_Project_Report.pdf) | Pytorch, Numpy, Matplotlib, PIL, Python
 
