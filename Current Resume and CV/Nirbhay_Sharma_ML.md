@@ -105,7 +105,7 @@ h3 {
     margin-top:5px;
     color:#BD3147;
     font-size:15px;
-    font-weight:530;
+    font-weight:550;
 }
 
 .head__title{
