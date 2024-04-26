@@ -28,7 +28,9 @@
 
 ---
 
-**Nirbhay Sharma**, Gautam Kumar, Dr. Angshuman Paul, **An Extremely Lightweight CNN Model For the Diagnosis of Chest Radiographs in Resource-constrained Environments** | *International Journal of Medical Physics* 2023 | <a href="https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.16722"> Paper </a>
+- **An Extremely Lightweight CNN Model For the Diagnosis of Chest Radiographs in Resource-constrained Environments** | *International Journal of Medical Physics* 2023 | <a href="https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.16722"> Paper </a>
+- **Aggregation-Assisted Proxyless Distillation: A Novel Approach for Handling System Heterogeneity in Federated Learning** | *International Joint Conference on Neural Networks (IJCNN)* 2024
+
 
 <h3>Research and Work Experience</h3>
 
@@ -67,23 +69,17 @@
 
 ---
 
-**Regularizing Federated Learning (FL) via Adversarial Model Perturbations (AMP)** | [Github](https://github.com/nirbhay-design/DAI_Project) | [Report](https://github.com/nirbhay-design/DAI_Project/blob/main/B19EE031_B19CSE114_project_report.pdf) | Pytorch, FL
+**Regularizing Federated Learning (FL) via Adversarial Model Perturbations (AMP)** | [Github](https://github.com/nirbhay-design/DAI_Project)
 
-<!-- **Course Project** | Supervisor: **Dr. Richa Singh** | IIT Jodhpur -->
+- Analyzed the effect of integrating **AMP** on SOTA FL algorithms like **FedAvg**, **FedProx**, **FedNTD**, **SCAFFOLD**. Observed a boost of **2-3%** accuracy on CIFAR10/100 dataset with AMP integrated FL algorithms
 
-- Analyzed the effect of **Adversarial Model Perturbations (AMP)** on **4** SOTA Federated Learning (FL) algorithms 
-- Implemented **FedAvg**, **FedProx**, **FedNTD**, **SCAFFOLD** from **scratch** and integrated **AMP** module at the **client**
-- Observed a boost of **2-3%** accuracy on CIFAR10/100 dataset after integrating AMP in each of the algorithm
+**Image Captioning using Detection Transformer (DeTR)** | [Github](https://github.com/nirbhay-design/image-caption-detr)
 
-**Image Captioning using Detection Transformer** | [Github](https://github.com/nirbhay-design/image-caption-detr) | Pytorch, DeTR, Transformer
+- Implemented modified **DeTR** from **scratch** in **Pytorch** for **image captioning** task. Trained **DeTR** on **Flickr30k** dataset for **500** epochs and achieved a **BLEU** score of **57.36** on **Flickr8k** dataset
 
-- Implemented **DeTR** from **scratch** using **Pytorch** and modified it for **image captioning** task
-- Trained **DeTR** on **Flickr30k** dataset for **500** epochs and achieved a **BLEU** score of **57.36** on **Flickr8k** dataset
+**Transformers-Implementation** | [Github](https://github.com/nirbhay-design/Transformers-Implementation)
 
-**Transformers-Implementation** | [Github](https://github.com/nirbhay-design/Transformers-Implementation) | Pytorch, Transformer
-
-- Read and Implemented **11** research papers on **vision transformers** from scratch in Pytorch
-- Implemented SOTA models like **Swin Transformer**, **Pyramid ViT**, **Convolution ViT** etc. for various vision tasks such as **Image classification**, **Object Detection**, **Sementic Segmentation**
+- Implemented **11** SOTA research papers on **vision transformers** variants like  **Swin Transformer**, **Pyramid ViT**, **Convolution ViT** etc. for **Image Classification** from scratch in **Pytorch**
 
 <!-- **CNN Algorithms Comparison** | [Github](https://github.com/nirbhay-design/CNNAlgosComparison) | [Report](https://github.com/nirbhay-design/CNNAlgosComparison/blob/master/Dl_Project_Report.pdf) | Pytorch, Numpy, Matplotlib, PIL, Python
 
