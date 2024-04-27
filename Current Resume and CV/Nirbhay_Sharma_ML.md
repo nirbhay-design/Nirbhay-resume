@@ -28,7 +28,7 @@
 
 ---
 
-- **An Extremely Lightweight CNN Model For the Diagnosis of Chest Radiographs in Resource-constrained Environments** | *International Journal of Medical Physics* 2023 | <a href="https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.16722"> Paper </a>
+- **An Extremely Lightweight CNN Model For the Diagnosis of Chest Radiographs in Resource-constrained Environments** | *International Journal of Medical Physics* 2023 | <a href="https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.16722"> Paper </a> 
 - **Aggregation-Assisted Proxyless Distillation: A Novel Approach for Handling System Heterogeneity in Federated Learning** | *International Joint Conference on Neural Networks (IJCNN)* 2024
 
 
@@ -36,33 +36,27 @@
 
 ---
 
-<div class="head__title"><span>  <strong> Faaya Astu </strong> India | <strong> Full Time </strong> (ML Engineer) | Pytorch, Diffusion, ControlNet, LoRA </span> <span class="duration"> 06/2023-Present </span> </div>
+<div class="head__title"><span>  <strong> Faaya Astu </strong> India | <strong> Full Time </strong> (ML Engineer) </span> <span class="duration"> 06/2023-Present </span> </div>
 
-- Worked on **SOTA Stable Diffusion**, **ControlNet** and **LoRA** models for text to print, and content generation  
-<!-- - Trained **GALIP**, a **GAN** based model for **Text to Print generation** on **AWS** instance on custom dataset -->
-- Trained **Stable Diffusion ControlNet** architecture on **Lineart** and **Colorbox** control on **VastAI** GPU instance to provide more flexibility and control on print generation
-- Trained **Low Rank Adaptation (LoRA)** models using **Kohya_SS** for controlled background and face generation 
-- Containerized **Stable Diffusion WebUI** and **ControlNet** using **Docker** to deploy them as **Serverless Endpoints** on **RunPod** and exposed endpoint APIs to **AWS Lambda** to create **APIs for APP** using **AWS API gateway** 
+- Trained **Stable Diffusion ControlNet** models on **Lineart** and **Colorbox** control on **VastAI** GPU instance and deployed them on **RunPod** for more flexibility and control on print generation
+- Trained **Low Rank Adaptation (LoRA)** models using **Kohya_SS** for custom **face** and **background** generation  
+- Experimented with custom **ComfyUI** workflows equipped with **ControlNet** and **LoRA** models and containerised them using **Docker** to deployed them as **Serverless Endpoints** on **RunPod** and exposed endpoint APIs to **AWS Lambda** to create **APIs for APP** using **AWS API gateway** 
 
-<div class="head__title"><span> <strong> ExaWizards </strong> India | <strong> Intern </strong> (ML Engineer) | <strong> Split Neural Networks </strong> | Pytorch, Jetson Nano, PySyft </span> <span class="duration"> 06/2022-07/2022 </span> </div>
+<div class="head__title"><span> <strong> ExaWizards </strong> India | <strong> Intern </strong> (ML Engineer) </span> <span class="duration"> 06/2022-07/2022 </span> </div>
 
-- Splitted **Mask-RCNN, FCN_Resnet50, YOLOv5** for **Instance segmentation, segmentation, face detection** tasks
-- Implemented **Autoencoder** model for efficient **image compression to latent space** and setup **Pysyft** to communicate latent features from **Jetson Nano** to GPU server, **preserving data privacy** at Jetson Nano
+- Worked on **Split Neural Network** ML paradigm and Splitted **Mask-RCNN, FCN_Resnet50, YOLOv5** models for **Instance segmentation, segmentation, face detection** tasks
+- Implemented **Autoencoder** model for efficient **image compression to latent space** and setup **Pysyft** to communicate latents from **Jetson Nano** to GPU server, **preserving data privacy** at Jetson Nano
 <!-- - Reduced considerable **inference time** using **split learning** and **latent image compression**   -->
 
-**Noise Engineered Federated Distillation for Heterogeneous Settings** | Pytorch, Federated Learning, Data-Free KD
+<div class="head__title"><span> <strong> FedAgPD: Aggregation-Assisted Proxyless Distillation </strong> | IIT Jodhpur </span> <span class="duration"> 08/2022-05/2023 </span> </div>
 
-<div class="head__title"><span><strong> Research Project</strong> | Supervisor: <strong> Dr. Deepak Mishra</strong>  | IIT Jodhpur</span> <span class="duration"> 08/2022-05/2023 </span> </div>
+- **Proposed** a **novel** FL Framework **FedAgPD** to handle **model and data heterogeneity**. Leveraging **Deep Mutual Learning** at **Client** and **Aggregation** followed by **Gaussian Noise based data free distillation** at the **Server**, eliminating need of **proxy dataset** or **GAN's** 
+- FedAgPD achieved **2x** better performance compared to SOTA FL algorithms like **FedDF**, **FedMD**, **Kt-pfl**
 
-- **Proposed** a **novel** Federated Learning (FL) Framework to handle **model and data heterogeneity**
-- Implemented **data-free KD** using **Gaussian Noise** at the **Server**, eliminating need of **proxy dataset** or **GAN's**
-- Our algorithm achieved **3x** better performance compared to SOTA FL algorithms like **FedDF**, **FedMD**, **Kt-pfl**  
 
-**Light Weight CNN Model for Chest Radiographs Classification** | Pytorch, Light Weight CNN Models
+<div class="head__title"><span> <strong> ExLNet: Extremely Lightweight CNN Model for Chest X-Ray Diagnosis </strong> | IIT Jodhpur | <a href="https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.16722"> Paper </a> </span> <span class="duration"> 06/2021-03/2022 </span> </div>
 
-<div class="head__title"><span><strong> Research Project</strong> | Supervisor: <strong> Dr. Angshuman Paul</strong>  | IIT Jodhpur | <a href="https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.16722"> Paper </a></span> <span class="duration"> 06/2021-03/2022 </span> </div>
-
-- Designed a **Lightweight CNN model (ExLNet)** for the abnormal detection of **Chest Radiographs**
+- Designed a novel **Lightweight CNN model (ExLNet)** for the abnormal detection of **Chest Radiographs**
 - Fused **Squeeze and Excitation** blocks with **Depth-wise convolution** to create **DCISE** layer as a component of **ExLNet**, which outperforms SOTA models like **Mobilenet**, **Shufflenet** on medical datasets like **NIH**, **VinBig**
 
 <h3>Projects</h3>
