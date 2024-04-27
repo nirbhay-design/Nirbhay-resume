@@ -40,7 +40,8 @@
 
 - Trained **Stable Diffusion ControlNet** models on **Lineart** and **Colorbox** control on **VastAI** GPU instance and deployed them on **RunPod** for more flexibility and control on print generation
 - Trained **Low Rank Adaptation (LoRA)** models using **Kohya_SS** for custom **face** and **background** generation  
-- Experimented with custom **ComfyUI** workflows equipped with **ControlNet** and **LoRA** models and containerised them using **Docker** to deployed them as **Serverless Endpoints** on **RunPod** and exposed endpoint APIs to **AWS Lambda** to create **APIs for APP** using **AWS API gateway** 
+- Experimented with custom **ComfyUI** workflows with integrated **ControlNet**, **LoRA**, **InstantID** models 
+- Containerised ComfyUI with **Docker** and deployed them as **Serverless Endpoints** on **RunPod** and exposed endpoint APIs to **AWS Lambda** to create **APIs for APP** using **AWS API gateway** 
 
 <div class="head__title"><span> <strong> ExaWizards </strong> India | <strong> Intern </strong> (ML Engineer) </span> <span class="duration"> 06/2022-07/2022 </span> </div>
 
@@ -50,7 +51,8 @@
 
 <div class="head__title"><span> <strong> FedAgPD: Aggregation-Assisted Proxyless Distillation </strong> | IIT Jodhpur </span> <span class="duration"> 08/2022-05/2023 </span> </div>
 
-- **Proposed** a **novel** FL Framework **FedAgPD** to handle **model and data heterogeneity**. Leveraging **Deep Mutual Learning** at **Client** and **Aggregation** followed by **Gaussian Noise based data free distillation** at the **Server**, eliminating need of **proxy dataset** or **GAN's** 
+- **Proposed** a **novel** FL Framework **FedAgPD** to simultaneously handle **model and data heterogeneity**
+- Leveraged **Deep Mutual Learning** at **Client** and **Aggregation** followed by **Gaussian Noise based data free distillation** at the **Server**, eliminating need of **proxy dataset** or **GAN's** 
 - FedAgPD achieved **2x** better performance compared to SOTA FL algorithms like **FedDF**, **FedMD**, **Kt-pfl**
 
 
