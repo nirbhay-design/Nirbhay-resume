@@ -36,7 +36,7 @@
 
 ---
 
-<div class="head__title"><span>  <strong> Faaya Astu </strong> India | <strong> Full Time </strong> (ML Engineer) </span> <span class="duration"> 06/2023-Present </span> </div>
+<div class="head__title"><span>  <strong> Faaya Astu </strong> India | <strong> Full Time </strong> (ML Engineer) </span> <span class="duration"> 06/2023-07/2023 </span> </div>
 
 - Trained **Stable Diffusion ControlNet** models on **Lineart** and **Colorbox** control on **VastAI** GPU instance and deployed them on **RunPod** for more flexibility and control on print generation
 - Trained **Low Rank Adaptation (LoRA)** models using **Kohya_SS** for custom **face** and **background** generation  
@@ -71,11 +71,11 @@
 
 **Image Captioning using Detection Transformer (DeTR)** | [Github](https://github.com/nirbhay-design/image-caption-detr)
 
-- Implemented modified **DeTR** from **scratch** in **Pytorch** for **image captioning** task. Trained **DeTR** on **Flickr30k** dataset for **500** epochs and achieved a **BLEU** score of **57.36** on **Flickr8k** dataset
+- Implemented modified **DeTR** from **scratch** in **pytorch** for **image captioning** task. Trained **DeTR** on **Flickr30k** dataset for **500** epochs and achieved a **BLEU** score of **57.36** on **Flickr8k** dataset
 
 **Transformers-Implementation** | [Github](https://github.com/nirbhay-design/Transformers-Implementation)
 
-- Implemented **11** SOTA research papers on **vision transformers** variants like  **Swin Transformer**, **Pyramid ViT**, **Convolution ViT** etc. for **Image Classification** from scratch in **Pytorch**
+- Implemented **11** SOTA research papers on **vision transformers** variants like  **Swin Transformer**, **Pyramid ViT**, **Convolution ViT** etc. for **Image Classification** from scratch in **pytorch**
 
 <!-- **CNN Algorithms Comparison** | [Github](https://github.com/nirbhay-design/CNNAlgosComparison) | [Report](https://github.com/nirbhay-design/CNNAlgosComparison/blob/master/Dl_Project_Report.pdf) | Pytorch, Numpy, Matplotlib, PIL, Python
 
