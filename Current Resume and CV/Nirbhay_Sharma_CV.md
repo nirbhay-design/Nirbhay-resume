@@ -37,7 +37,7 @@ Computer Vision (CV), Generative Adversarial Networks (GAN's), Natural Language 
 ---
 
 - **An Extremely Lightweight CNN Model For the Diagnosis of Chest Radiographs in Resource-constrained Environments** | *International Journal of Medical Physics* 2023 | <a href="https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.16722"> Paper </a> 
-- **Aggregation-Assisted Proxyless Distillation: A Novel Approach for Handling System Heterogeneity in Federated Learning** | *International Joint Conference on Neural Networks (IJCNN)* 2024
+- **Aggregation-Assisted Proxyless Distillation: A Novel Approach for Handling System Heterogeneity in Federated Learning** | *International Joint Conference on Neural Networks (IJCNN)* 2024 | <a href="https://ieeexplore.ieee.org/document/10650564"> Paper </a>
 
 
 <h3>Industry Experience</h3>
@@ -149,7 +149,7 @@ h3 {
 
 *{
     font-family: "Georgia";
-    font-size:13px;
+    font-size:12.5px;
     margin:0px;
 }
 
