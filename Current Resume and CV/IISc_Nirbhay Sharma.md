@@ -3,15 +3,25 @@
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-<div>
-<span class="name__"> Nirbhay Sharma </span> | <span> +91 9369630713 </span> | <span> <a href="mailto:sharma.59@iitj.ac.in"> <i class="fa fa-envelope" style='font-size:12px;'></i> sharma.59@iitj.ac.in </a> </span> | <span> <a href="https://github.com/nirbhay-design"> <i class="fa fa-github"></i> Github </a> </span> | <span> <a href='https://nirbhay-sharma.vercel.app'> <i class="fa fa-address-book-o"></i> Portfolio </a> </span> |  <span> <a href="https://www.linkedin.com/in/nirbhay-sharma-a2b846204/"> <i class="fa fa-linkedin-square"></i> LinkedIn </a> </span> 
-</div>
+<!-- Original  -->
 
-<!-- <div class='head__title'> <span> <h3 style='display:inline;'>Education -</h3> <strong>B.Tech</strong>, CSE | Indian Institute of Technology (IIT) Jodhpur | CGPA: <strong>8.97</strong>/10 </span> <span class="duration">Aug'19-May'23</span> </div> -->
+<!-- <div>
+<span class="name__"> Nirbhay Sharma </span> | <span> +91 9369630713 </span> | <span> <a href="mailto:nirbhays@iisc.ac.in"> <i class="fa fa-envelope" style='font-size:12px;'></i> sharma.59@iitj.ac.in </a> </span> | <span> <a href="https://github.com/nirbhay-design"> <i class="fa fa-github"></i> Github </a> </span> | <span> <a href='https://nirbhay-sharma.vercel.app'> <i class="fa fa-address-book-o"></i> Portfolio </a> </span> |  <span> <a href="https://www.linkedin.com/in/nirbhay-sharma-a2b846204/"> <i class="fa fa-linkedin-square"></i> LinkedIn </a> </span> 
+</div> -->
+
+<!-- FOR IISc -->
+
+<div>
+<span class="name__"> Nirbhay Sharma </span>
+</div> 
+<div> <span> +91 9369630713 </span> | <span> <a href="mailto:nirbhays@iisc.ac.in"> <i class="fa fa-envelope" style='font-size:12px;'></i> nirbhays@iisc.ac.in </a> </span> | <span> <a href="mailto:nirbhaysharma071@gmail.com"> <i class="fa fa-envelope" style='font-size:12px;'></i> nirbhaysharma071@gmail.com </a> </span> | <span> <a href="https://github.com/nirbhay-design"> <i class="fa fa-github"></i> Github </a> </span> | <span> <a href='https://nirbhay-sharma.vercel.app'> <i class="fa fa-address-book-o"></i> Portfolio </a> </span> |  <span> <a href="https://www.linkedin.com/in/nirbhay-sharma-a2b846204/"> <i class="fa fa-linkedin-square"></i> LinkedIn </a> </span> 
+</div>
 
 <h3> Education </h3>
 
 ---
+
+<div class='head__title'> <span> <strong>M.Tech</strong>, AI | Indian Institute of Science (IISc) Bangalore | <strong>AIR-6</strong> GATE DA | CGPA: <strong>8.7</strong>/10 </span> <span class="duration">08/2024-05/2026</span> </div>
 
 <div class='head__title'> <span> <strong>B.Tech</strong>, CSE | Indian Institute of Technology (IIT) Jodhpur | CGPA: <strong>8.97</strong>/10 </span> <span class="duration">08/2019-05/2023</span> </div>
 
@@ -49,7 +59,7 @@
 - Implemented **Autoencoder** model for efficient **image compression to latent space** and setup **Pysyft** to communicate latents from **Jetson Nano** to GPU server, **preserving data privacy** at Jetson Nano
 <!-- - Reduced considerable **inference time** using **split learning** and **latent image compression**   -->
 
-<div class="head__title"><span> <strong> FedAgPD: Aggregation-Assisted Proxyless Distillation </strong> | IIT Jodhpur </span> <span class="duration"> 08/2022-05/2023 </span> </div>
+<div class="head__title"><span> <strong> FedAgPD: Aggregation-Assisted Proxyless Distillation </strong> | IIT Jodhpur | <a href="https://ieeexplore.ieee.org/document/10650564"> Paper </a> </span> <span class="duration"> 08/2022-05/2023 </span> </div>
 
 - **Proposed** a **novel** FL Framework **FedAgPD** to simultaneously handle **model and data heterogeneity**
 - Leveraged **Deep Mutual Learning** at **Client** and **Aggregation** followed by **Gaussian Noise based data free distillation** at the **Server**, eliminating need of **proxy dataset** or **GAN's** 
@@ -91,6 +101,10 @@
 table, th, td {
   border: 0.1px solid black;
   border-collapse: collapse;
+}
+
+.course_div {
+    display:flex;
 }
 
 h3 {
