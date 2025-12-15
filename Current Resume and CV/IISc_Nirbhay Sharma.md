@@ -21,9 +21,9 @@
 
 ---
 
-<div class='head__title'> <span> <strong>M.Tech</strong>, AI | Indian Institute of Science (IISc) Bangalore | <strong>AIR-6</strong> GATE DA | CGPA: <strong>8.7</strong>/10 </span> <span class="duration">08/2024-05/2026</span> </div>
+<div class='head__title'> <span> <strong>M.Tech</strong>, AI | Indian Institute of Science (IISc) Bangalore | <strong>AIR-6</strong> GATE DA | CGPA: <strong>8.5</strong>/10 </span> <span class="duration">08/24-05/26</span> </div>
 
-<div class='head__title'> <span> <strong>B.Tech</strong>, CSE | Indian Institute of Technology (IIT) Jodhpur | CGPA: <strong>8.97</strong>/10 </span> <span class="duration">08/2019-05/2023</span> </div>
+<div class='head__title'> <span> <strong>B.Tech</strong>, CSE | Indian Institute of Technology (IIT) Jodhpur | CGPA: <strong>8.97</strong>/10 </span> <span class="duration">08/19-05/23</span> </div>
 
 
 <h3>Technical Skills</h3>
@@ -42,38 +42,56 @@
 - **Aggregation-Assisted Proxyless Distillation: A Novel Approach for Handling System Heterogeneity in Federated Learning** | *International Joint Conference on Neural Networks (IJCNN)* 2024 | <a href="https://ieeexplore.ieee.org/document/10650564"> Paper </a>
 
 
-<h3>Research and Work Experience</h3>
+<h3>Industry Experience</h3>
 
 ---
 
-<div class="head__title"><span>  <strong> Faaya Astu </strong> India | <strong> Full Time </strong> (ML Engineer) </span> <span class="duration"> 06/2023-07/2023 </span> </div>
+<div class="head__title"><span> <strong> Mastercard </strong> India | <strong> Intern </strong> (Data Scientist) </span> <span class="duration"> 05/25-07/25 </span> </div>
+
+- Worked with **AI Garage** on **Multi-Teacher GNN to MLP** knowledge distillation for efficient inference
+- Trained multiple teacher **GNN** models like **GCN, GAT, SAGE** on **node and edge prediction, contrastive** tasks
+- Proposed **GMOE2MLP**, a **graph mixture of expert to MLP** distillation method and a novel **cluster contrast loss** to distill the **embeddings from best teacher to MLP**
+
+<div class="head__title"><span>  <strong> Faaya Astu </strong> India | <strong> Full Time </strong> (ML Engineer) </span> <span class="duration"> 06/23-07/23 </span> </div>
 
 - Trained **Stable Diffusion ControlNet** models on **Lineart** and **Colorbox** control on **VastAI** GPU instance and deployed them on **RunPod** for more flexibility and control on print generation
 - Trained **Low Rank Adaptation (LoRA)** models using **Kohya_SS** for custom **face** and **background** generation  
 - Experimented with custom **ComfyUI** workflows with integrated **ControlNet**, **LoRA**, **InstantID** models 
 - Containerised ComfyUI with **Docker** and deployed them as **Serverless Endpoints** on **RunPod** and exposed endpoint APIs to **AWS Lambda** to create **APIs for APP** using **AWS API gateway** 
 
-<div class="head__title"><span> <strong> ExaWizards </strong> India | <strong> Intern </strong> (ML Engineer) </span> <span class="duration"> 06/2022-07/2022 </span> </div>
+<div class="head__title"><span> <strong> ExaWizards </strong> India | <strong> Intern </strong> (AI Engineer) </span> <span class="duration"> 06/22-07/22 </span> </div>
 
 - Worked on **Split Neural Network** ML paradigm and Splitted **Mask-RCNN, FCN_Resnet50, YOLOv5** models for **Instance segmentation, segmentation, face detection** tasks
 - Implemented **Autoencoder** model for efficient **image compression to latent space** and setup **Pysyft** to communicate latents from **Jetson Nano** to GPU server, **preserving data privacy** at Jetson Nano
 <!-- - Reduced considerable **inference time** using **split learning** and **latent image compression**   -->
 
-<div class="head__title"><span> <strong> FedAgPD: Aggregation-Assisted Proxyless Distillation </strong> | IIT Jodhpur | <a href="https://ieeexplore.ieee.org/document/10650564"> Paper </a> </span> <span class="duration"> 08/2022-05/2023 </span> </div>
+<!-- <div class="head__title"><span> <strong> FedAgPD: Aggregation-Assisted Proxyless Distillation </strong> | IIT Jodhpur | <a href="https://ieeexplore.ieee.org/document/10650564"> Paper </a> </span> <span class="duration"> 08/2022-05/2023 </span> </div>
 
 - **Proposed** a **novel** FL Framework **FedAgPD** to simultaneously handle **model and data heterogeneity**
 - Leveraged **Deep Mutual Learning** at **Client** and **Aggregation** followed by **Gaussian Noise based data free distillation** at the **Server**, eliminating need of **proxy dataset** or **GAN's** 
-- FedAgPD achieved **2x** better performance compared to SOTA FL algorithms like **FedDF**, **FedMD**, **Kt-pfl**
+- FedAgPD achieved **2x** better performance compared to SOTA FL algorithms like **FedDF**, **FedMD**, **Kt-pfl** -->
 
 
-<div class="head__title"><span> <strong> ExLNet: Extremely Lightweight CNN Model for Chest X-Ray Diagnosis </strong> | IIT Jodhpur | <a href="https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.16722"> Paper </a> </span> <span class="duration"> 06/2021-03/2022 </span> </div>
+<!-- <div class="head__title"><span> <strong> ExLNet: Extremely Lightweight CNN Model for Chest X-Ray Diagnosis </strong> | IIT Jodhpur | <a href="https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.16722"> Paper </a> </span> <span class="duration"> 06/2021-03/2022 </span> </div>
 
 - Designed a novel **Lightweight CNN model (ExLNet)** for the abnormal detection of **Chest Radiographs**
-- Fused **Squeeze and Excitation** blocks with **Depth-wise convolution** to create **DCISE** layer as a component of **ExLNet**, which outperforms SOTA models like **Mobilenet**, **Shufflenet** on medical datasets like **NIH**, **VinBig**
+- Fused **Squeeze and Excitation** blocks with **Depth-wise convolution** to create **DCISE** layer as a component of **ExLNet**, which outperforms SOTA models like **Mobilenet**, **Shufflenet** on medical datasets like **NIH**, **VinBig** -->
 
 <h3>Projects</h3>
 
 ---
+
+**Leveraging Generative Modelling for Self Supervised Learning** | [Github](https://github.com/nirbhay-design/ODE-SSL) | [Report](https://github.com/nirbhay-design/IISC_SEM3/blob/main/TVA/NirbhaySharma_24806_TVA_Final.pdf)  
+
+- Leveraged **Neural ODE** to model the representation space as **dynamical system**
+- Utilized **Energy Based Models (EBMs)** and proposed **LEMa** to elevate representation quality via genAI
+- Observed a boost of **3-6%** on **linear evaluation** accuracy on **CIFAR10/100** with **Resnet18/50** encoders
+
+**Self Supervised Representation Learning Algorithms (SSL)** | [Github](https://github.com/nirbhay-design/RepresentationLearningAlgorithms) 
+
+- Performed a comparitive study on **6** SSL methods like **SimCLR, BYOL, SupCon** etc. from **scratch** in pytorch
+- Proposed **DARe**, a **distribution alignment regularizer** for learning rich representations 
+- Observed a boost of **2-5%** on **linear evaluation** accuracy on **CIFAR10/100** with **Resnet18/50** encoders
 
 **Regularizing Federated Learning (FL) via Adversarial Model Perturbations (AMP)** | [Github](https://github.com/nirbhay-design/DAI_Project)
 
@@ -83,9 +101,9 @@
 
 - Implemented modified **DeTR** from **scratch** in **pytorch** for **image captioning** task. Trained **DeTR** on **Flickr30k** dataset for **500** epochs and achieved a **BLEU** score of **57.36** on **Flickr8k** dataset
 
-**Transformers-Implementation** | [Github](https://github.com/nirbhay-design/Transformers-Implementation)
+<!-- **Transformers-Implementation** | [Github](https://github.com/nirbhay-design/Transformers-Implementation)
 
-- Implemented **11** SOTA research papers on **vision transformers** variants like  **Swin Transformer**, **Pyramid ViT**, **Convolution ViT** etc. for **Image Classification** from scratch in **pytorch**
+- Implemented **11** SOTA research papers on **vision transformers** variants like  **Swin Transformer**, **Pyramid ViT**, **Convolution ViT** etc. for **Image Classification** from scratch in **pytorch** -->
 
 <!-- **CNN Algorithms Comparison** | [Github](https://github.com/nirbhay-design/CNNAlgosComparison) | [Report](https://github.com/nirbhay-design/CNNAlgosComparison/blob/master/Dl_Project_Report.pdf) | Pytorch, Numpy, Matplotlib, PIL, Python
 
