@@ -21,7 +21,7 @@
 
 ---
 
-<div class='head__title'> <span> <strong>M.Tech</strong>, AI | Indian Institute of Science (IISc) Bangalore | <strong>AIR-6</strong> GATE DA | CGPA: <strong>8.5</strong>/10 </span> <span class="duration">08/24-05/26</span> </div>
+<div class='head__title'> <span> <strong>M.Tech</strong>, AI | Indian Institute of Science (IISc) Bangalore | <strong>AIR-6</strong> GATE DA | CGPA: <strong>8.9</strong>/10 </span> <span class="duration">08/24-05/26</span> </div>
 
 <div class='head__title'> <span> <strong>B.Tech</strong>, CSE | Indian Institute of Technology (IIT) Jodhpur | CGPA: <strong>8.97</strong>/10 </span> <span class="duration">08/19-05/23</span> </div>
 
