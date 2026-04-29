@@ -10,7 +10,7 @@
 
 ---
 
-<div class='head__title'> <span><strong>M.Tech</strong>, AI | Indian Institute of Science (IISc) Bangalore | AIR-6 GATE DA | CGPA: <strong>8.5</strong>/10 </span> <span class="duration">07/24-05/26</span> </div>
+<div class='head__title'> <span><strong>M.Tech</strong>, AI | Indian Institute of Science (IISc) Bangalore | AIR-6 GATE DA | CGPA: <strong>8.9</strong>/10 </span> <span class="duration">07/24-05/26</span> </div>
 
 - Working in **VAL Lab** at IISc under **Prof Venkatesh Babu**
 
