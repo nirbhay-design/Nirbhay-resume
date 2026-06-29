@@ -21,7 +21,7 @@
 
 ---
 
-<div class='head__title'> <span> <strong>M.Tech</strong>, AI | Indian Institute of Science (IISc) Bangalore | <strong>AIR-6</strong> GATE DA | CGPA: <strong>8.9</strong>/10 </span> <span class="duration">08/24-05/26</span> </div>
+<div class='head__title'> <span> <strong>M.Tech</strong>, AI | Indian Institute of Science (IISc) Bangalore | <strong>AIR-6</strong> GATE DA | CGPA: <strong>9.3</strong>/10 </span> <span class="duration">08/24-05/26</span> </div>
 
 <div class='head__title'> <span> <strong>B.Tech</strong>, CSE | Indian Institute of Technology (IIT) Jodhpur | CGPA: <strong>8.97</strong>/10 </span> <span class="duration">08/19-05/23</span> </div>
 
@@ -52,7 +52,7 @@
 - Trained multiple teacher **GNN** models like **GCN, GAT, SAGE** on **node and edge prediction, contrastive** tasks
 - Proposed **GMOE2MLP**, a **graph mixture of expert to MLP** distillation method and a novel **cluster contrast loss** to distill the **embeddings from best teacher to MLP**
 
-<div class="head__title"><span>  <strong> Faaya Astu </strong> India | <strong> Full Time </strong> (ML Engineer) </span> <span class="duration"> 06/23-07/23 </span> </div>
+<div class="head__title"><span>  <strong> Faaya Astu </strong> India | <strong> Full Time </strong> (ML Engineer) </span> <span class="duration"> 06/23-06/24 </span> </div>
 
 - Trained **Stable Diffusion ControlNet** models on **Lineart** and **Colorbox** control on **VastAI** GPU instance and deployed them on **RunPod** for more flexibility and control on print generation
 - Trained **Low Rank Adaptation (LoRA)** models using **Kohya_SS** for custom **face** and **background** generation  
